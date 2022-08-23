@@ -11,7 +11,8 @@
 
 int main(int argc, char **argv) {
 
-  printf("Hannah Maag\n");
+  printf("Hannah Maag :D\n");
+  printf("Math\n");
 
   return 0;
 }
